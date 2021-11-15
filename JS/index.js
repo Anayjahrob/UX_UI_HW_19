@@ -1,6 +1,6 @@
 
 
-$(p).on("mouseenter":function(){
+$("p").on("mouseenter"):function(){
       $(this).css("color", "teal");}
     
     "mouseleave": function(){
